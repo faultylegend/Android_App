@@ -1,4 +1,4 @@
-# Android_App
+# Back Your Board Games
 
 ## Purpose
 We are designing an app that compiles data on different kickstarted board games and displays that information to the user.
